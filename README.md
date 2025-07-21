@@ -88,7 +88,15 @@ I specialize in **biometrics**, **machine perception**, and **full-stack platfor
 <img width="48%" src="https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight&hide_border=true" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=thecritiz&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
+<div align="center">
+
+<a href="https://github.com/thecritiz">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/thecritiz">
+  <img width="48%" src="https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight&hide_border=true" />
+</a>
+
 
 </div>
 
