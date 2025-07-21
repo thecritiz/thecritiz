@@ -62,12 +62,29 @@ I specialize in **biometrics**, **machine perception**, and **full-stack platfor
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [**Facial Emotion-Based Movie Recommender**](https://github.com/thecritiz/distraction-detect) | Real-time app recommending content using CNN-based emotion recognition. Built with React, FastAPI, and OpenCV. |
-| [**Attentiveness Checker**](https://github.com/thecritiz/attentiveness-checker) | Eye and face tracking to detect user distraction using MediaPipe and OpenCV. |
-| [**Real Estate Web App**](https://github.com/thecritiz/real-estate-app) | Full-stack platform with JWT auth, property filters, animations, and PostgreSQL backend. |
-| [**LidarGait++ on SUSTech1K**](https://github.com/thecritiz/lidargait-sustech1k) | Gait recognition using Point Transformer networks on point cloud datasets. |
+### 🎭 [Expression Upgraded](https://github.com/thecritiz/expression-upgraded)  
+An advanced facial emotion recognition system powered by browser-based computer vision. Enables intelligent UX based on emotional cues.  
+Tech: JavaScript · HTML5 Canvas · TensorFlow.js · Real-time Inference
+
+---
+
+### 🧠 [Distraction Detect](https://github.com/thecritiz/distraction-detect)  
+Facial landmark-based attentiveness monitoring system using MediaPipe FaceMesh and OpenCV. Ideal for productivity and e-learning tools.  
+Tech: Python · OpenCV · MediaPipe · Streamlit · Real-time Detection
+
+---
+
+### 👁️ [Face Detection](https://github.com/thecritiz/Face_detection)  
+A lightweight, browser-based face detection demo built in JavaScript. Uses web APIs for efficient front-end-only inference.  
+Tech: JavaScript · HTML · face-api.js
+
+---
+
+### 🌐 [Portfolio](https://github.com/thecritiz/portfolio)  
+A modern, responsive portfolio site showcasing projects, research, and GitHub contributions. Built for speed, clarity, and dark mode.  
+Tech: React · Tailwind CSS · Framer Motion · Responsive Design
+
+---
 
 ---
 
