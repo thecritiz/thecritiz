@@ -49,12 +49,37 @@ Implementing point-transformer-based gait recognition on the SUSTech1K dataset.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Activity
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=thecritiz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+### 🧠 Insights at a Glance
+
+<a href="https://github.com/thecritiz">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/thecritiz">
+  <img width="49%" src="https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+### 📌 Language Proficiency
+
+<a href="https://github.com/thecritiz">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+### 🏆 GitHub Achievements
+
+<a href="https://github.com/thecritiz">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=thecritiz&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
+</a>
+
+</div>
+
 
 ---
 
