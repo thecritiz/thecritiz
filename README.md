@@ -1,119 +1,102 @@
-<h1 align="center">Aditya Pandey</h1>
-<h3 align="center">AI/ML Researcher • Full-Stack Engineer • Human-Centric Tech</h3>
-
-<p align="center">
-  <a href="https://twitter.com/thecritiz">
-    <img src="https://img.shields.io/badge/X-%40thecritiz-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thecritiz">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Pandey-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/thecritiz">
-    <img src="https://img.shields.io/badge/GitHub-thecritiz-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧭 About Me
-
-I'm a final-year Computer Science undergrad passionate about building intelligent systems.  
-I specialize in **biometrics**, **machine perception**, and **full-stack platforms** that align AI with real human contexts.
-
-- 🧠 Working on gait recognition, stylometric AI, and vision-based attentiveness tools  
-- 🌍 Open-source advocate: I build, document, and share  
-- 🔬 Love transforming research ideas into scalable, real-world tech
-
----
-
-## ⚙️ Tech Stack
-
-### 🖥️ Languages, Frameworks & Tools
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-
-  <!-- Frontend & Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-
-  <!-- ML/AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎭 [Expression Upgraded](https://github.com/thecritiz/expression-upgraded)  
-An advanced facial emotion recognition system powered by browser-based computer vision. Enables intelligent UX based on emotional cues.  
-Tech: JavaScript · HTML5 Canvas · TensorFlow.js · Real-time Inference
-
----
-
-### 🧠 [Distraction Detect](https://github.com/thecritiz/distraction-detect)  
-Facial landmark-based attentiveness monitoring system using MediaPipe FaceMesh and OpenCV. Ideal for productivity and e-learning tools.  
-Tech: Python · OpenCV · MediaPipe · Streamlit · Real-time Detection
-
----
-
-### 👁️ [Face Detection](https://github.com/thecritiz/Face_detection)  
-A lightweight, browser-based face detection demo built in JavaScript. Uses web APIs for efficient front-end-only inference.  
-Tech: JavaScript · HTML · face-api.js
-
----
-
-### 🌐 [Portfolio](https://github.com/thecritiz/portfolio)  
-A modern, responsive portfolio site showcasing projects, research, and GitHub contributions. Built for speed, clarity, and dark mode.  
-Tech: React · Tailwind CSS · Framer Motion · Responsive Design
-
----
-
----
-
-## 🧪 Research & Building
-
-- 📡 **LidarGait++** – biometric gait recognition via point clouds  
-- ✍️ **Stylometric AI** – authorship detection via lexical stylometry  
-- 💬 **Encrypted Chit-Chat** – React Native chat app with E2E security  
-- 🧱 **Portfolio OS** – unified dashboard for demos, blog, and model explorer  
-
----
-
-## 📊 GitHub Analytics
-
+<!-- HEADER -->
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=tokyonight&hide_border=true" />
-
-
-
+  <h1>Aditya Pandey</h1>
+  <p>AI/ML Researcher • Full-Stack Engineer • Human-Centric Tech</p>
+  <p>
+    <a href="https://twitter.com/thecritiz">
+      <img src="https://img.shields.io/badge/Twitter-@thecritiz-1DA1F2?style=flat&logo=twitter" />
+    </a>
+    <a href="https://linkedin.com/in/thecritiz">
+      <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Pandey-0077B5?style=flat&logo=linkedin" />
+    </a>
+    <a href="https://github.com/thecritiz">
+      <img src="https://img.shields.io/badge/GitHub-thecritiz-181717?style=flat&logo=github" />
+    </a>
+  </p>
 </div>
 
----
+<hr>
 
-## 🧭 Let's Connect
+<!-- ABOUT -->
+## 🧭 About Me
+I’m a final-year CS undergrad dedicated to building **intelligent**, **scalable** systems that bridge **AI** and **real-world** needs.  
+Currently focused on:
+- **Gait Recognition** (LidarGait++, PoseNet, GaitPart)  
+- **Stylometric AI** for authorship attribution  
+- **Real-time** vision-based attentiveness tools  
 
-- 📬 Twitter/X: [@thecritiz](https://twitter.com/thecritiz)  
-- 💼 LinkedIn: [linkedin.com/in/thecritiz](https://www.linkedin.com/in/thecritiz)  
-- 💻 GitHub: [github.com/thecritiz](https://github.com/thecritiz)
+<hr>
+
+<!-- TECH STACK -->
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,fastapi,postgres,opencv,keras,tensorflow,docker,git,github,vscode,figma" height="40"/>
+</p>
+
+<hr>
+
+<!-- PROJECTS -->
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="45%">
+      <h4>🎭 Expression Upgraded</h4>
+      <p>An advanced JS-based emotion recognition engine delivering real-time insights via HTML5 Canvas and TensorFlow.js.</p>
+      <p><strong>Tech:</strong> JavaScript · TensorFlow.js · Canvas · WebRTC</p>
+      <p><a href="https://github.com/thecritiz/expression-upgraded">🔗 View on GitHub</a></p>
+    </td>
+    <td valign="top" width="45%">
+      <h4>🧠 Distraction Detect</h4>
+      <p>Facial landmark attentiveness monitor built with MediaPipe FaceMesh & OpenCV, ideal for e-learning and productivity.</p>
+      <p><strong>Tech:</strong> Python · OpenCV · MediaPipe · Streamlit</p>
+      <p><a href="https://github.com/thecritiz/distraction-detect">🔗 View on GitHub</a></p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td valign="top">
+      <h4>👁️ Face Detection</h4>
+      <p>Lightweight browser demo for face detection using face-api.js and modern Web APIs—no backend required.</p>
+      <p><strong>Tech:</strong> JavaScript · face-api.js · HTML · CSS</p>
+      <p><a href="https://github.com/thecritiz/Face_detection">🔗 View on GitHub</a></p>
+    </td>
+    <td valign="top">
+      <h4>🌐 Portfolio</h4>
+      <p>Responsive portfolio site showcasing my work, blog, and GitHub stats. Built for speed and dark-mode friendliness.</p>
+      <p><strong>Tech:</strong> React · Tailwind CSS · Framer Motion</p>
+      <p><a href="https://github.com/thecritiz/portfolio">🔗 View on GitHub</a></p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<hr>
+
+<!-- RESEARCH -->
+## 🔬 Research & Building
+- **LidarGait++**: 3D gait recognition via point-cloud transformers  
+- **Stylometric AI**: Authorship attribution with lexical fingerprinting  
+- **Encrypted Chat**: React Native E2E-secure messaging  
+- **Portfolio OS**: Unified dashboard for demos, blog & AI showcase  
+
+<hr>
+
+<!-- ANALYTICS -->
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight&hide_border=true" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<hr>
+
+<!-- FOOTER -->
+## 🧭 Let’s Connect
+- **Twitter/X:** [@thecritiz](https://twitter.com/thecritiz)  
+- **LinkedIn:** [linkedin.com/in/thecritiz](https://linkedin.com/in/thecritiz)  
+- **GitHub:** [github.com/thecritiz](https://github.com/thecritiz)
