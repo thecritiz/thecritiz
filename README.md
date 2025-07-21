@@ -51,9 +51,10 @@ Implementing point-transformer-based gait recognition on the SUSTech1K dataset.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecritiz&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thecritiz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
