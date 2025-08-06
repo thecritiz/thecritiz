@@ -18,18 +18,10 @@
 </p>
 
 👋 Hello World!
-I'm Aditya, a Computer Science enthusiast with a passion for building high-impact, human-centered AI systems. My journey sits at the exciting intersection of machine learning, biometric AI, and scalable full-stack development.
-
-I thrive on transforming complex ideas into practical solutions, always with an eye towards innovation and real-world application.
+I'm Aditya, a Computer Science enthusiast building high-impact, human-centered AI systems. My work intersects machine learning, biometric AI, and scalable full-stack development, transforming complex ideas into practical, innovative solutions.
 
 ✨ What I'm Building & Exploring
-Currently, my focus areas include:
-
-🧠 Vision-based AI: Developing systems for attentiveness and emotion recognition.
-
-👣 Advanced Biometrics: Researching gait and behavioral biometrics using cutting-edge point cloud and pose estimation techniques.
-
-🔒 Privacy-Aware Systems: Crafting secure and ethical interfaces, alongside robust platforms for research experimentation.
+My current focus: developing vision-based AI for attentiveness and emotion recognition, researching gait and behavioral biometrics via point cloud/pose estimation, and crafting privacy-aware interfaces for robust experimentation platforms.
 
 💻 My Toolkit
 Here's a glimpse into the technologies and tools I wield to bring my projects to life:
@@ -51,7 +43,7 @@ GitHub
 
 Expression Upgraded
 
-Real-time facial emotion recognition for adaptive user experiences.
+Real-time facial emotion recognition for adaptive UX.
 
 JavaScript, TensorFlow.js, HTML5 Canvas
 
@@ -59,7 +51,7 @@ Repo
 
 Distraction Detect
 
-Innovative attentiveness checker for education and workplace monitoring.
+Attentiveness checker for education and workplace monitoring.
 
 Python, OpenCV, MediaPipe, Streamlit
 
@@ -67,7 +59,7 @@ Repo
 
 Face Detection
 
-Lightweight, frontend-only face detection for browser-based integration.
+Lightweight, frontend face detection for browser integration.
 
 JavaScript, HTML, face-api.js
 
@@ -75,24 +67,16 @@ Repo
 
 Portfolio
 
-My personal developer portfolio with integrated project showcases and a dynamic blog.
+Personal developer portfolio with integrated project showcases and blog.
 
 React, Tailwind CSS, Framer Motion
 
 Repo
 
 🔬 Cutting-Edge Research
-My ongoing research endeavors push the boundaries of AI and biometrics:
+My research pushes AI and biometrics boundaries: LidarGait++ (point-transformer gait recognition), Stylometric Authorship (NLP-based writing style detection), Chit-Chat (secure React Native chat with biometric auth), and Portfolio OS (modular platform for research/product demos).
 
-LidarGait++: Point-transformer-based gait recognition using advanced point cloud data.
-
-Stylometric Authorship: Leveraging NLP embeddings to analyze and detect unique writing styles.
-
-Chit-Chat: Developing a secure React Native chat platform with robust biometric authentication.
-
-Portfolio OS: Designing a modular, interactive platform for seamless integration of research and product demos.
-
-📈 GitHub Activity
+📊 GitHub Activity
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight&hide_border=true&title_color=39C2C9&icon_color=39C2C9" alt="GitHub Stats" />
 <img width="48%" src="https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight&hide_border=true&title_color=39C2C9&stroke=39C2C9" alt="GitHub Streak" />
