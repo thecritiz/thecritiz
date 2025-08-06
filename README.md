@@ -31,47 +31,25 @@ Here's a glimpse into the technologies and tools I wield to bring my projects to
 </p>
 
 🚀 Impactful Projects
-A selection of projects demonstrating my expertise and passion:
-
-Project Name
-
-Description
-
-Key Technologies
-
-GitHub
-
 Expression Upgraded
-
-Real-time facial emotion recognition for adaptive UX.
-
-JavaScript, TensorFlow.js, HTML5 Canvas
-
-Repo
+Facial emotion recognition system with real-time analysis using TensorFlow.js.
+🧠 Use Case: Adaptive UX based on live emotional cues
+🛠️ JS · TensorFlow.js · HTML5 · Canvas API
 
 Distraction Detect
-
-Attentiveness checker for education and workplace monitoring.
-
-Python, OpenCV, MediaPipe, Streamlit
-
-Repo
+Attentiveness checker using MediaPipe FaceMesh and OpenCV for facial landmark tracking.
+🎯 Use Case: Education, focus analytics, workplace monitoring
+🛠️ Python · OpenCV · MediaPipe · Streamlit
 
 Face Detection
-
-Lightweight, frontend face detection for browser integration.
-
-JavaScript, HTML, face-api.js
-
-Repo
+Lightweight, frontend-only face detection using face-api.js.
+📦 Use Case: Demos, POC, browser-based security
+🛠️ JS · HTML · face-api.js
 
 Portfolio
-
-Personal developer portfolio with integrated project showcases and blog.
-
-React, Tailwind CSS, Framer Motion
-
-Repo
+Sleek developer portfolio with integrated projects and blog system.
+💡 Use Case: Personal branding, showcase
+🛠️ React · Tailwind CSS · Framer Motion
 
 🔬 Cutting-Edge Research
 My research pushes AI and biometrics boundaries: LidarGait++ (point-transformer gait recognition), Stylometric Authorship (NLP-based writing style detection), Chit-Chat (secure React Native chat with biometric auth), and Portfolio OS (modular platform for research/product demos).
