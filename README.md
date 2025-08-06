@@ -65,26 +65,26 @@ I love transforming abstract ideas into real-world impact through innovation and
 
 ## 🚀 Featured Projects
 
-### 🎭 Expression Upgraded  
+### 🎭 [Expression Upgraded](https://github.com/thecritiz/expression-upgraded)  
 🧠 Real-time **facial emotion recognition** for adaptive UX  
 🔧 `JavaScript` · `TensorFlow.js` · `HTML5` · `Canvas API`
 
 ---
 
-### 🎯 Distraction Detect  
+### 🎯 [Distraction Detect](https://github.com/thecritiz/distraction-detect)  
 🧠 Tracks **attentiveness** using facial landmark detection  
 🎯 Built for learning environments & productivity tracking  
 🔧 `Python` · `OpenCV` · `MediaPipe` · `Streamlit`
 
 ---
 
-### 👁️ Face Detection (Frontend-only)  
+### 👁️ [Face Detection (Frontend-only)](https://github.com/thecritiz/face-detection-js)  
 💡 Browser-based **face detection** with zero backend  
 🔧 `JavaScript` · `face-api.js` · `HTML`
 
 ---
 
-### 🌐 Portfolio  
+### 🌐 [Portfolio](https://github.com/thecritiz/portfolio)  
 🚀 Personal site to showcase my work and blog  
 🔧 `React` · `Tailwind CSS` · `Framer Motion`
 
