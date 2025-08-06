@@ -1,4 +1,3 @@
-```markdown
 # Aditya Pandey
 ### AI/ML Researcher · Full-Stack Engineer · Applied Biometrics
 
@@ -142,4 +141,3 @@ Currently exploring:
     <img src="https://img.shields.io/badge/GitHub-thecritiz-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-```
