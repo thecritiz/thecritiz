@@ -1,111 +1,81 @@
-<h1 align="center"><strong>Aditya Pandey</strong></h1>
+<h1 align="center">Hi there 👋, I'm Aditya Pandey</h1>
 <h3 align="center">AI/ML Researcher · Full-Stack Engineer · Applied Biometrics</h3>
 
 <p align="center">
-  <a href="https://twitter.com/thecritiz"><img src="https://img.shields.io/badge/Twitter-%40thecritiz-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/thecritiz"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/thecritiz"><img src="https://img.shields.io/badge/GitHub-thecritiz-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/thecritiz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%40thecritiz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thecritiz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/thecritiz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-thecritiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ---
 
-## About Me
-
-I’m a Computer Science undergrad focused on building high-impact, human-centered AI systems.  
-My interests lie at the intersection of **machine learning**, **biometric AI**, and **scalable full-stack systems**.
-
-Currently working on:
-- Vision-based **attentiveness** and **emotion recognition**
-- **Gait and behavioral biometrics** using point cloud and pose estimation
-- **Privacy-aware interfaces** and research-grade experimentation platforms
-
----
-
-## Stack & Specializations
-
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" style="background:white; border-radius:6px; padding:3px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" />
-
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" />
-
-  <!-- ML / AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" />
+  <img src="https://visitor-badge.la-roche.me/badge?page_id=thecritiz.thecritiz" alt="Profile views counter" />
 </p>
 
 ---
 
-## Projects
+## 👨‍💻 About Me
 
-### [`Expression Upgraded`](https://github.com/thecritiz/expression-upgraded)
-> Facial emotion recognition system with real-time analysis using TensorFlow.js.  
-🧠 **Use Case**: Adaptive UX based on live emotional cues  
-🛠️ JS · TensorFlow.js · HTML5 · Canvas API
+I'm a Computer Science student passionate about building impactful, human-centered **AI systems**. My work focuses on the intersection of **machine learning**, **biometric AI**, and **scalable full-stack development**.
 
----
-
-### [`Distraction Detect`](https://github.com/thecritiz/distraction-detect)
-> Attentiveness checker using MediaPipe FaceMesh and OpenCV for facial landmark tracking.  
-🎯 **Use Case**: Education, focus analytics, workplace monitoring  
-🛠️ Python · OpenCV · MediaPipe · Streamlit
+- **Currently working on:** Vision-based **attentiveness** and **emotion recognition**, and **gait and behavioral biometrics** using pose estimation.
+- **My interests include:** Biometric security, privacy-aware interfaces, and full-stack systems for research experimentation.
 
 ---
 
-### [`Face Detection`](https://github.com/thecritiz/Face_detection)
-> Lightweight, frontend-only face detection using `face-api.js`.  
-📦 **Use Case**: Demos, POC, browser-based security  
-🛠️ JS · HTML · face-api.js
+## 🛠️ Tech Stack & Specializations
 
----
-
-### [`Portfolio`](https://github.com/thecritiz/portfolio)
-> Sleek developer portfolio with integrated projects and blog system.  
-💡 **Use Case**: Personal branding, showcase  
-🛠️ React · Tailwind CSS · Framer Motion
-
----
-
-## Ongoing Research
-
-- `LidarGait++`: point-transformer-based gait recognition using point clouds  
-- `Stylometric Authorship`: detecting writing style with NLP embeddings  
-- `Chit-Chat`: secure React Native chat platform with biometric login  
-- `Portfolio OS`: modular, interactive platform for research + product demo
-
----
-
-## GitHub Insights
+I'm proficient in a variety of languages, frameworks, and tools.
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,react,express,postgresql,tensorflow,keras,opencv,pandas,numpy,git,docker,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### **[Expression Upgraded](https://github.com/thecritiz/expression-upgraded)**
+A real-time facial emotion recognition system using TensorFlow.js for adaptive user experiences.
+- **Tech Stack:** `JavaScript`, `TensorFlow.js`, `HTML5`
+
+### **[Distraction Detect](https://github.com/thecritiz/distraction-detect)**
+An attentiveness checker built with MediaPipe FaceMesh and OpenCV, ideal for education and workplace monitoring.
+- **Tech Stack:** `Python`, `OpenCV`, `MediaPipe`, `Streamlit`
+
+### **[Face Detection](https://github.com/thecritiz/Face_detection)**
+A lightweight, browser-based face detection demo using `face-api.js`.
+- **Tech Stack:** `JavaScript`, `HTML`, `face-api.js`
+
+### **[Portfolio](https://github.com/thecritiz/portfolio)**
+My personal developer portfolio featuring integrated projects and a blog.
+- **Tech Stack:** `React`, `Tailwind CSS`, `Framer Motion`
+
+---
+
+## 🔬 Ongoing Research
+
+- **LidarGait++**: A point-transformer based gait recognition system using point clouds.
+- **Stylometric Authorship**: An NLP-based approach for detecting writing style.
+- **Chit-Chat**: A secure chat platform for React Native with biometric login.
+- **Portfolio OS**: A modular, interactive platform for showcasing research and product demos.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=tokyonight&hide_border=true&title_color=39C2C9&icon_color=39C2C9" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=thecritiz&theme=tokyonight&hide_border=true&title_color=39C2C9&stroke=39C2C9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=tokyonight&hide_border=true&title_color=39C2C9&icon_color=39C2C9" alt="Top Languages" />
 </p>
-
----
-
-## Contact
-
-- Twitter: [@thecritiz](https://twitter.com/thecritiz)  
-- LinkedIn: [in/thecritiz](https://linkedin.com/in/thecritiz)  
-- GitHub: [@thecritiz](https://github.com/thecritiz)
