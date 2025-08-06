@@ -1,93 +1,128 @@
-# 👋 Hello World! I'm Aditya Pandey
+<h1 align="center">Hi there 👋, I'm Aditya Pandey</h1>
 
-**AI/ML Researcher** | **Full-Stack Engineer** | **Applied Biometrics**
+<p align="center">
+  <strong>AI/ML Researcher</strong> • <strong>Full-Stack Engineer</strong> • <strong>Biometric Systems Builder</strong>
+</p>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+<p align="center">
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thecritiz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue)
-
----
-
-🧠 I’m a Computer Science enthusiast building **human-centered AI systems**. My work lies at the intersection of **machine learning**, **biometric AI**, and **scalable full-stack engineering**—turning complex ideas into practical, innovative solutions.
-
----
-
-## ✨ What I'm Building & Exploring
-
-- 🔍 **Vision-Based AI** for **attentiveness and emotion recognition**
-- 🕴️ **Gait & Behavioral Biometrics** using **point cloud** and **pose estimation**
-- 🔐 **Privacy-Aware Interfaces** for research & experimentation platforms
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thecritiz&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
 ---
 
-## 💻 My Tech Toolkit
+## 🧠 About Me
 
-**Languages:** Python, JavaScript, TypeScript, C++  
-**ML/AI:** PyTorch, TensorFlow, OpenCV, MediaPipe, Scikit-learn  
-**Frontend:** React, Next.js, Tailwind CSS, HTML5, Canvas API  
-**Backend:** Node.js, Express, Firebase, Supabase  
-**Tools:** Git, Docker, Streamlit, Framer Motion, Vercel
+Hi! I'm Aditya, a Computer Science enthusiast passionate about creating **human-centered AI systems**. My work lives at the intersection of:
+
+- 🧬 **Machine Learning** & **Biometrics**
+- 🛠️ **Scalable Full-Stack Systems**
+- 🔒 **Privacy-Conscious Experimentation Platforms**
+
+I love transforming abstract ideas into real-world impact through innovation and code.
 
 ---
 
-## 🚀 Highlight Projects
+## 🚧 What I'm Currently Exploring
+
+- 🎥 **Vision AI** for attentiveness and emotion recognition  
+- 🕴 **Gait Analysis & Behavioral Biometrics** using point cloud & pose estimation  
+- 🧪 **Experimentation Platforms** with modular privacy-aware interfaces  
+
+---
+
+## 🧰 Tech Stack
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, JavaScript, TypeScript, C++, SQL</td>
+  </tr>
+  <tr>
+    <td><strong>ML/AI</strong></td>
+    <td>PyTorch, TensorFlow, OpenCV, MediaPipe, scikit-learn</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, Next.js, Tailwind CSS, Canvas API, HTML5</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express, Firebase, Supabase</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git, Docker, Streamlit, Framer Motion, Vercel</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎭 Expression Upgraded  
-Facial emotion recognition with real-time analysis.  
-🧠 *Adaptive UX based on live emotional cues*  
-`JavaScript` · `TensorFlow.js` · `HTML5` · `Canvas API`
+🧠 Real-time **facial emotion recognition** for adaptive UX  
+🔧 `JavaScript` · `TensorFlow.js` · `HTML5` · `Canvas API`
 
 ---
 
 ### 🎯 Distraction Detect  
-Attentiveness checker using facial landmark tracking.  
-📚 *Ideal for education & workplace focus analytics*  
-`Python` · `OpenCV` · `MediaPipe` · `Streamlit`
+🧠 Tracks **attentiveness** using facial landmark detection  
+🎯 Built for learning environments & productivity tracking  
+🔧 `Python` · `OpenCV` · `MediaPipe` · `Streamlit`
 
 ---
 
-### 👤 Face Detection (Frontend-only)  
-Lightweight browser-based face detection.  
-🔐 *Great for POCs and browser security demos*  
-`JavaScript` · `HTML` · `face-api.js`
+### 👁️ Face Detection (Frontend-only)  
+💡 Browser-based **face detection** with zero backend  
+🔧 `JavaScript` · `face-api.js` · `HTML`
 
 ---
 
 ### 🌐 Portfolio  
-Dynamic developer portfolio with blog and projects.  
-📌 *Personal branding meets functionality*  
-`React` · `Tailwind CSS` · `Framer Motion`
+🚀 Personal site to showcase my work and blog  
+🔧 `React` · `Tailwind CSS` · `Framer Motion`
 
 ---
 
-## 🔬 Cutting-Edge Research
+## 🔬 Research Highlights
 
-- **LidarGait++** – Gait recognition with Point Transformers  
-- **Stylometric Authorship** – Writing style analysis via NLP  
-- **Chit-Chat** – Secure chat app with biometric authentication  
-- **Portfolio OS** – Modular research/product demo platform  
+- 🔄 **LidarGait++** – Gait recognition via Point Transformers  
+- ✍️ **Stylometric Authorship** – NLP-powered author ID system  
+- 🔐 **Chit-Chat** – Secure chat app w/ biometric authentication  
+- ⚙️ **Portfolio OS** – Modular OS for demos & live research
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Insights
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thecritiz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecritiz&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecritiz&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📬 Let's Connect!
 
-I'm always up for conversations about research, cool ideas, or collaborations.
+Whether it’s for a collab, a conversation, or just sharing ideas—feel free to reach out!
 
-📩 Feel free to reach out on:  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+<p align="center">
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thecritiz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-_“Turning real-world problems into AI-powered solutions with code, creativity, and curiosity.”_
+<p align="center">
+  <em>"Turning real-world problems into AI-powered solutions with code, creativity, and curiosity."</em>
+</p>
